@@ -1,3 +1,6 @@
+#--Este codigo ha sido proporcionado por ChatGPT de OpenAI.--
+
+
 import pygame
 import sys
 import random
